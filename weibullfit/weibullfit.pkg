@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'weibullfit': Fitting a two-parameter Weibull distribution by maximum likelihood Use weibullfit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f weibullfit.ado
+f weibullfit.sthlp
+f weibullfit_lf.ado
